@@ -18,3 +18,6 @@ If you want to build the Docker image from scratch, use the following command.
 ```
 docker build -t chapter_11:latest .
 ```
+
+## Book Reference
+More information can be found at: [Deep Learning for NLP and Speech Recognition](https://www.amazon.com/Deep-Learning-NLP-Speech-Recognition/dp/3030145956) by [Springer](https://www.springer.com/us/book/9783030145958) 
